@@ -1,8 +1,9 @@
 {
-  "name": "my-project",
+  "name": "reddit-clone",
   "version": "1.0.0",
-  "main": "index.js",
+  "author": "Tristan Van Maren <tvanmaren@gmail.com>",
   "license": "MIT",
+  "main": "index.js",
   "scripts": {
     "start": "lite-server"
   },
